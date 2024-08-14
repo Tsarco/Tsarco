@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Gabriel!
 <p align="center"> 
-  <a href="https://joyoneyama.github.io" target="_blank"><img width="70%" src="./img/imagem.gif"/></a> 
+  <a href="https://joyoneyama.github.io" target="_blank"><img width="80%" src="imagem.gif"/></a> 
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsarco&locale=pt-br&theme=neon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    

@@ -1,10 +1,11 @@
 # 👋 Oi, eu sou o Gabriel!
 <p align="center"> 
-  <a href="https://joyoneyama.github.io" target="_blank"><img width="80%" src="imagem.gif"/></a> 
-</p>
+  <a href="https://tsarco.github.io" target="_blank"><img width="80%" src="imagem.gif"/></a> 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsarco&locale=pt-br&theme=neon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Tsarco&locale=pt-br&theme=neon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <!--
 **Tsarco/Tsarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,13 @@
 # 👋 Oi, eu sou o Gabriel!
 <p align="center"> 
-  <a href="https://tsarco.github.io" target="_blank"><img width="80%" src="imagem.gif"/></a> 
+  <a href="https://tsarco.github.io" target="_blank"><img width="80%" src="imagem.gif"/></a>
+</p>
+
+<p>
+  Arte por 
+  <a href="https://www.instagram.com/marcelobadaristudio/">  Marcelo Badari </a>
+</p>
+
 
 <hr>
 
